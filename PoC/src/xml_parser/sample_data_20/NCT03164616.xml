@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 23, 2017</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03164616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D419MC00004</org_study_id>
+    <nct_id>NCT03164616</nct_id>
+  </id_info>
+  <brief_title>Study of Durvalumab + Tremelimumab With Chemotherapy or Durvalumab With Chemotherapy or Chemotherapy Alone for Patients With Lung Cancer (POSEIDON).</brief_title>
+  <acronym>POSEIDON</acronym>
+  <official_title>A Phase III, Randomized, Multi-Center, Open-Label, Comparative Global Study to Determine the Efficacy of Durvalumab or Durvalumab and Tremelimumab in Combination With Platinum-Based Chemotherapy for First-Line Treatment in Patients With Metastatic Non Small-Cell Lung Cancer (NSCLC) (POSEIDON)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, open-label, multi-center, global, Phase III study to determine the
+      efficacy and safety of durvalumab + tremelimumab combination therapy + Standard of care
+      (SoC) chemotherapy or durvalumab monotherapy + SoC chemotherapy versus SoC chemotherapy
+      alone as first line treatment in patients with metastatic non small-cell lung cancer (NSCLC)
+      with tumors that lack activating epidermal growth factor receptor (EGFR) mutations and
+      anaplastic lymphoma kinase (ALK) fusions.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adult patients with a histologically or cytologically documented metastatic NSCLC, with
+      tumors that lack activating EGFR mutations and ALK fusions, are eligible for enrollment.
+      Patients will be randomized in a 1:1:1 ratio to receive treatment with durvalumab +
+      tremelimumab combination therapy + SoC chemotherapy, durvalumab monotherapy + SoC
+      chemotherapy, or SoC chemotherapy alone. Tumor evaluation scans will be performed until
+      objective disease progression as efficacy assessment. All patients will be followed for
+      survival until the end of the study. An independent data monitoring committee (IDMC)
+      composed of independent experts will be convened to confirm the safety and tolerability of
+      the proposed dose and schedule.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 30, 2017</start_date>
+  <completion_date type="Anticipated">August 2, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>No masking</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) using Blinded Independent Central Review (BICR) assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) using BICR assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to 4 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) using BICR assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR) using BICR assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomization to second progression (PFS2)</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive and progression free at 12 months from randomization (APF12) using BICR assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best objective response (BoR) using BICR assessments according to RECIST 1.1</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The pharmacokinetics (PK) of durvalumab and tremelimumab as determined by concentration</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The immunogenicity of durvalumab and tremelimumab as assessed by presence of anti-drug antibodies (ADAs)</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related QoL measured by EORTC QLQ-C30 v3</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-related symptoms measured by EORTC QLQ-LC13</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in WHO/ECOG performance status</measure>
+    <time_frame>Up to 3 years after first patient randomized</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The safety and tolerability profile of durvalumab +/- tremelimumab in combination with standard of care chemotherapy as determined by adverse events (AEs), physical examninations, laboratory data and vital signs</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">801</enrollment>
+  <condition>Non Small Cell Lung Cancer (NSCLC)</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>durvalumab + tremelimumab comination therapy + SoC chemotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>durvalumab monotherapy + SoC chemotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SoC chemotherapy alone</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>IV infusions every 3 weeks for 12 weeks (4 cycles) and every 4 weeks thereafter until disease progression or other discontinuation criteria</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tremelimumab</intervention_name>
+    <description>IV infusions every 3 weeks for 12 weeks (4 cycles). An additional dose of tremelimumab will be administered in the week 16.</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abraxane + carboplatin</intervention_name>
+    <description>Standard of care chemotherapy (squamous and non-squamous patients)</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine + cisplatin</intervention_name>
+    <description>Standard of care chemotherapy (squamous patients only)</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine + carboplatin</intervention_name>
+    <description>Standard of care chemotherapy (squamous patients only)</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed + carboplatin</intervention_name>
+    <description>Standard of care chemotherapy (non-squamous patients only)</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed + cisplatin</intervention_name>
+    <description>Standard of care chemotherapy (non-squamous patients only)</description>
+    <arm_group_label>Treatment Arm 1</arm_group_label>
+    <arm_group_label>Treatment Arm 2</arm_group_label>
+    <arm_group_label>Treatment Arm 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        For inclusion in the study, patients should fulfill the following criteria:
+
+          1. Aged at least 18 years.
+
+          2. Histologically or cytologically documented Stage IV NSCLC.
+
+          3. Confirmed tumor PD-L1 status prior to randomization.
+
+          4. Patients must have tumors that lack activating EGFR mutations and ALK fusions.
+
+          5. No prior chemotherapy or any other systemic therapy for metastatic NSCLC.
+
+          6. World Health Organization (WHO)/Eastern Cooperative Oncology Group (ECOG) performance
+             status of 0 or 1.
+
+          7. No prior exposure to immunemediated therapy, excluding therapeutic anticancer
+             vaccines.
+
+        Exclusion Criteria:
+
+        Patients should not enter the study if any of the following exclusion criteria are
+        fulfilled:
+
+          1. Mixed small-cell lung cancer and NSCLC histology, sarcomatoid variant.
+
+          2. Active or prior documented autoimmune or inflammatory disorders.
+
+          3. Brain metastases or spinal cord compression unless the patient's condition is stable
+             and off steroids.
+
+          4. Active infection including tuberculosis, hepatitis B, hepatitis C, or human
+             immunodeficiency virus.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Phillip Dennis, M.D., Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>One MedImmune Way Gaithersburg, MD 20878 United States of America</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tony Mok</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, NT, Hong Kong</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Caicun Zhou</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai Pulmonary Hospital, Affiliated to Tongji University School of Medicine, Shanghai, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>AstraZeneca Cancer Study Locator Service</last_name>
+    <phone>1-877-400-4656</phone>
+    <email>AstraZeneca@emergingmed.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Luis Obispo</city>
+        <state>California</state>
+        <zip>93401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Edina</city>
+        <state>Minnesota</state>
+        <zip>55435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Poughkeepsie</city>
+        <state>New York</state>
+        <zip>12601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Busan</city>
+        <zip>47392</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chungcheongbuk-do</city>
+        <zip>28644</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Daegu</city>
+        <zip>42415</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>21565</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seongnam-si</city>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ulsan</city>
+        <zip>44033</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Arequipa</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>41</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>L27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 18</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>LIMA 29</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>LIMA 34</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Isidro</city>
+        <zip>27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>105229</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125367</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644013</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>195271</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>194291</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450054</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150040</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kaohsiung</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kropyvnitskiy</city>
+        <zip>25006</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03022</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03115</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79031</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Odesa</city>
+        <zip>65055</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sumy</city>
+        <zip>40022</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21029</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zaporizhzhya</city>
+        <zip>69040</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>EC1M 6BQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2BU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+    <country>Korea, Republic of</country>
+    <country>Peru</country>
+    <country>Russian Federation</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2017</verification_date>
+  <lastchanged_date>May 22, 2017</lastchanged_date>
+  <firstreceived_date>May 22, 2017</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NSCLC</keyword>
+  <keyword>PD-L1</keyword>
+  <keyword>Durvalumab</keyword>
+  <keyword>Tremelimumab</keyword>
+  <keyword>PFS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Tremelimumab</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
